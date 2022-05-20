@@ -1,9 +1,9 @@
 # Hi there, I'm Pelin! :sparkles: 
 
-<img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="350" height="200" align="center" />
+<img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="350" height="200" align-items="center" />
 
 
-### I'm a 3rd grade computer engineering student at Eskişehir Technical University
+### I'm a 3rd grade computer engineering student at Eskişehir Technical University.
 #### :tada: Future Junior Front-End Developer :tada:
 - 🌱 I’m currently working on React.
 - ⚡ I would like to make projects related to Front-End Programming and I'm willing to study about back-end programming using Java.
