@@ -3,9 +3,9 @@
 <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="350" height="200" align-items="center" />
 
 
-### I'm a 3rd grade computer engineering student at Eskişehir Technical University.
+### I'm a 4th grade computer engineering student at Eskişehir Technical University.
 #### :tada: Future Junior Front-End Developer :tada:
-- 🌱 I’m currently working on React.
+- 🌱 I’m currently working on Flutter.
 - ⚡ I would like to make projects related to Front-End Programming and I'm willing to study about back-end programming using Java.
 - 💬 I'm familiar with Java / HTML / CSS / JS / C# and Python .
 - 🧐 You can contact me through this mail address. -> pelinsenavarol@outlook.com
