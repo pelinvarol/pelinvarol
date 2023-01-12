@@ -21,15 +21,6 @@
  <a href="https://www.instagram.com/pelinsenavarol/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
   
   </br>
-  
-[![Pelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelinvarol&theme=gruvbox_light&show_icons=true)](https://github.com/pelinvarol/github-readme-stats)
-
-</br>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelinvarol&theme=gruvbox_light&show_icons=true)](https://github.com/pelinvarol/github-readme-stats)
-
 
 
 ## 🧰 Languages and Tools:
