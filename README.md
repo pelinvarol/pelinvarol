@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on Machine Learning & Data Science concepts.
 - ⚡ I'm willing to study about programming in Java.
-- 💬 I'm familiar with Java / Python / C# / HTML / CSS / JavaScript and Dart.
+- 💬 I'm familiar with Java / Python / C# / HTML|CSS|Bootstrap / JavaScript and Dart|Flutter.
 - 🧐 You can contact me through this mail address. -> pelinsenavarol@outlook.com
 
 </br>
