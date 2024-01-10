@@ -1,56 +1,31 @@
-<h1 align="center">Hi there, I'm Pelin! :sparkles: </h1> 
+<h1 align="center">Welcome, my name is Pelin! :sparkles:</h1>
+<h3 align="center">I am a software developer at the beginning of a long journey.</h3>
 
 <div align= "center">
   <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="350" height="200" style="display: inline-block; " />
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pelinvarol&label=Profile%20views&color=0e75b6&style=flat" alt="pelinvarol" /> </p>
+
+- 🌱 I’m currently learning **Node.js, Express.js, Pug.js and detailed Rest API structure.**
+
+- 💬 I have been working with **Spring Boot, PostgreSQL and JSP for a while.**
+
+- ⚡ My goal is to become a fullstack developer who is well-equipped in backend development and can also improve myself on the frontend part.
+
+- 📫 How to reach me **pelinsenavarol@outlook.com**
 
 
-<h3 align="center">I graduated from Eskişehir Technical University in June 2023. I am currently continuing my internship. I want to start my career as a backend developer and improve myself in this field.</h3>
-
-- 🌱 I am currently working as an intern at Linktera Information Technologies Company. I am working on a Spring Boot MVC project with JSP.
-- ⚡ I am trying to improve myself in Java, Spring Boot and backend programming.
-- 💬 I'm familiar with Java / Python / C# / HTML|CSS|Bootstrap / JavaScript and Dart|Flutter.
-- 🧐 You can contact me through this mail address. -> pelinsenavarol@outlook.com
-
-</br>
-
- <!-- Connect with me -->
- <h2 align="left">Connect with me:</h3>
- <p align="left">
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
  <a href="https://www.linkedin.com/in/pelin-sena-varol/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
-<!---   <a href="https://twitter.com/psvderler" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
- <a href="https://www.instagram.com/pelinsenavarol/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a> -->
-  
-  </br>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## Languages and Tools:   
-</br>
-<p align="center">
-   <a href="https://www.java.com/tr/" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px"></a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" alt="Spring Boot" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-    <a href="https://www.w3schools.com/cs/index.php" target="blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="CSharp" height="40" style="vertical-align:top; margin:4px"></a>
-    <a href="https://www.w3schools.com/js/" target="blank">  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
-    <a href="https://www.w3schools.com/html/default.asp" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://www.w3schools.com/css/default.asp" target="blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px"></a>
-     <a href="https://getbootstrap.com/" target="blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px"></a>
-     <a href="https://tr.reactjs.org/" target="blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://maven.apache.org/" target="blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="Maven" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.mysql.com/" target="blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://git-scm.com/" target="blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/master/topics/intellij-idea/intellij-idea.png" alt="IntelliJ IDEA" height="40" style="vertical-align:top; margin:4px"></a>
-   <a href="https://code.visualstudio.com/" target="blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> </a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pelinvarol&show_icons=true&locale=en&layout=compact" alt="pelinvarol" /></p>
 
-
-   <!-- Diğer diller ve araçlar -->
-  
-   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pelinvarol&show_icons=true&locale=en" alt="pelinvarol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pelinvarol&" alt="pelinvarol" /></p>
-   
-
